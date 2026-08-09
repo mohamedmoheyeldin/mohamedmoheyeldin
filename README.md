@@ -430,13 +430,23 @@ Learning      → Local AI and developer tooling
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmoheyeldin&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
+<img
+  src="./profile/github-stats.svg"
+  alt="Mohamed's GitHub statistics"
+  height="180"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmoheyeldin&layout=compact&hide_border=true&theme=transparent)
+<img
+  src="./profile/top-languages.svg"
+  alt="Most frequently used languages in Mohamed's public repositories"
+  height="180"
+/>
 
 </div>
 
-> GitHub language statistics represent public repositories and are not intended to represent my complete professional technology experience.
+> Language statistics reflect code in public repositories and do not represent my complete professional technology experience.
+
+---
 
 ---
 
