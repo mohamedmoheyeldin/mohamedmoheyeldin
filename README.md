@@ -426,30 +426,6 @@ Learning      → Local AI and developer tooling
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-<img
-  src="./profile/github-stats.svg"
-  alt="Mohamed's GitHub statistics"
-  height="180"
-/>
-
-<img
-  src="./profile/top-languages.svg"
-  alt="Most frequently used languages in Mohamed's public repositories"
-  height="180"
-/>
-
-</div>
-
-> Language statistics reflect code in public repositories and do not represent my complete professional technology experience.
-
----
-
----
-
 # 🤝 Connect
 
 I’m interested in conversations around:
