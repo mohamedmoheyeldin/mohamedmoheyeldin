@@ -228,7 +228,7 @@ This requires automation architecture that respects the real security model inst
 
 **QA Test Engineer · 2020 — Present**
 
-- Led an automation team of **5 engineers**
+- Led an automation team of **6 engineers**
 - Designed Cypress and Playwright automation frameworks
 - Automated UI and API regression coverage
 - Integrated automated testing with GitHub Actions
