@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior SDET / Test Automation Lead** with more than **11 years of experience** building and leading software quality engineering solutions across enterprise environments.
+I am a **Senior SDET / Test Automation Lead** with more than **10 years of experience** building and leading software quality engineering solutions across enterprise environments.
 
 My work focuses on:
 
