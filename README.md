@@ -56,7 +56,7 @@ My goal is not simply to make tests pass.
 <sub>Execution-Time Reduction</sub>
 </td>
 <td width="25%" align="center">
-<strong>UI + API</strong><br/>
+<strong>UI + API + DB</strong><br/>
 <sub>End-to-End Automation</sub>
 </td>
 </tr>
