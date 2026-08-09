@@ -48,7 +48,7 @@ My goal is not simply to make tests pass.
 <sub>Quality Engineering</sub>
 </td>
 <td width="25%" align="center">
-<strong>5 Engineers</strong><br/>
+<strong>6 Engineers</strong><br/>
 <sub>Automation Team Led</sub>
 </td>
 <td width="25%" align="center">
